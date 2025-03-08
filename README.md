@@ -105,3 +105,9 @@ Limitations
 The quality of SQL generation depends on the clarity of natural language queries
 Complex queries with ambiguous language may require manual review
 Schema information should be updated if database structure changes
+
+
+Contributors:  
+[Dhruv Rankoti](https://github.com/Dhruv-Rankoti)  
+[Aman Srivastava](https://github.com/aman-coder03)  
+[Arpit Rawat](https://github.com/rwtarpit)
